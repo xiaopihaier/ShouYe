@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@mipmap/android_home_shortcuts_item_bg" android:state_pressed="false"/>
+    <item android:drawable="@mipmap/android_home_shortcuts_item_bg_focused" android:state_pressed="true"/>
+
+</selector>
